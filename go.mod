@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault-plugin-auth-kubernetes
+module github.com/makurus2/vault-plugin-auth-kubernetes
 
 go 1.12
 
